@@ -1,0 +1,19 @@
+.plus{
+    cursor: pointer;
+}
+.minus{
+    cursor: pointer;
+}
+
+.total{
+    width: 400px;
+    height: 200px;
+    background-color: beige;
+}
+.total h2{
+    text-align: center;
+}
+.total p:nth-child(2){
+   font-size: 40px;
+   color: hotpink;
+}
